@@ -1,0 +1,49 @@
+{
+    "questions": [
+      {
+        "answers": [
+          "Sachin Tendulkar and Saurav Ganguly",
+          "Saurav Ganguly and Rahul Dravid",
+          "Saurav Ganguly and Virender Sehwag",
+          "Rahul Dravid and Sachin Tendulkar"
+        ],
+        "correct": {
+          "index": 1,
+          "text": "Sourav Ganguly and Rahul Dravid (India) with a partnership of 318 runs against Sri Lanka at Taunton, England in 1999 WCl\""
+        },
+        "number": 1,
+        "image": "img/s1.jpg",
+        "prompt": "Which cricketers have the record for the highest run patnership at the World Cup ?"
+      },
+      {
+        "answers": [
+          "Pine Wood",
+          "Rose Wood",
+          "Teak Wood",
+          "Willow Wood"
+        ],
+        "correct": {
+          "index": 3
+        },
+        "number": 2,
+        "image": "img/s2.jpg",
+        "prompt": "Standard cricket bats are made of?"
+      },
+      {
+        "answers": [
+          "Bangaladesh",
+          "India",
+          "Pakistan",
+          "Srilanka"
+        ],
+        "correct": {
+          "index": 1
+        },
+        "number": 3,
+        "image": "img/s3.jpg",
+        "prompt": "Who won the Asia Cup Cricket Tournament 2010 ?"
+      }
+    ],
+    "title": "How well do you know your game cricket?"
+  
+  }
